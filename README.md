@@ -1,4 +1,4 @@
-# flutter-calculator
+# almightycalculator
 **Preview :**
 
 
